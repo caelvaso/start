@@ -16,7 +16,7 @@ public class Demo {
     public static void main(String[] args) {
         System.out.println("Demo");
         System.out.println("PXTOG");
-        System.out.println("sdsd alo");
+        System.out.println("sdsd");
     }
     
 }
